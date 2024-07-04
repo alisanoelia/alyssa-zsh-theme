@@ -1,6 +1,8 @@
 ## alyssa-zsh-theme
 Personal and minimalist theme for zsh
 
+![alyssa](./assets/alyssa.png)
+
 ### Installation
 
 - Requisites
