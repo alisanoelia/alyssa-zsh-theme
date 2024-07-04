@@ -5,7 +5,7 @@ Personal and minimalist theme for zsh
 
 ### Installation
 
-- Requisites
+- Requirements
     - ohmyzsh (https://github.com/ohmyzsh/ohmyzsh)
     - git
 
