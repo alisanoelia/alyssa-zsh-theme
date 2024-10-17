@@ -1,5 +1,10 @@
- # Define el prompt principal
-PROMPT='󰔶  %1~$(git_prompt_info) %B%F{white}➜%b '
+# Define el prompt principal
+
+
+PROMPT='%B%~%b %B%{$fg[yellow]%}%b '
+# PROMPT="󰔶  %B%{$fg[yellow]%}%~%b \$ "
+# PROMPT='󰔶  \w $(git_prompt_info) %B%F{white}➜%b '
+
 
 # Configura las partes del prompt de git
 ZSH_THEME_GIT_PROMPT_PREFIX=""
